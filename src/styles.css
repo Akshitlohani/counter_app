@@ -1,0 +1,20 @@
+body {
+    background-color: #59b6da;
+  }
+  
+  .App {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f1e98c;
+    box-shadow: 0px 0px 10px #bbbbbb;
+    border-radius: 5px;
+  }
+  
+  .counter {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0;
+  }
+  
